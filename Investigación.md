@@ -22,7 +22,7 @@ Para verificarlo, revisamos los registros de Apache y encontramos la inyección 
 
 ping.php
 
-![alt text](image-1.png)
+![alt text](img_investigacion/image-1.png)
 
 Actividad realizada con el ping.php
 
@@ -30,7 +30,7 @@ Actividad realizada con el ping.php
 
 Hemos revisado los logs y en los logs de `apache` hemos visto que hay un archivo que se llama `access.log` en la que nos da la información de la ip del atacante,  el cliente que utiliza y el sistema operativo
 
-![alt text](image.png)
+![alt text](img_investigacion/image.png)
 
 - IP: 192.168.1.6
 - Cliente: Mozilla Firefox
@@ -42,13 +42,13 @@ Se genera un archivo `passwd.txt` en donde se guarda el contenido de `/etc/passw
 
 passwd.txt
 
-![alt text](image-2.png)
+![alt text](img_investigacion/image-2.png)
 
 ## Analizar por qué el archivo original no muestra actividad durante el incidente
 
 Porque el archivo lo `único` que se ha hecho ha sido hacerle un `cat` al archivo y lo han guardado en un `.txt`
 
-![alt text](image-3.png)
+![alt text](img_investigacion/image-3.png)
 
 ## Proponer soluciones para reparar la vulnerabilidad explotada
 
