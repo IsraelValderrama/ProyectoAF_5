@@ -58,5 +58,5 @@ def comprobar_archivos_y_hashes(archivo_hashes, directorio_archivos='.'):
             print(f"  Resultado: El hash no coincide.")
 
 archivo_hashes = 'hashes_sha256.txt'  
-directorio_archivos = 'D:\\Proyecto5_AF\\'
+directorio_archivos = 'E:\\Proyecto5_AF\\'
 comprobar_archivos_y_hashes(archivo_hashes, directorio_archivos)

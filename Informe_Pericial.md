@@ -49,11 +49,11 @@
 | **1. INFORMACIÓN DEL CASO**                  |                                                                          |
 | Número de caso                               | 01                                                                       |
 | Tipo de investigación                        | Adquisición de memoria volátil                                           |
-| Fecha de Adquisición                         | 26/03/2025                                                               |
+| Fecha de Adquisición                         | 13/03/2025                                                               |
 | Lugar de Adquisición                         | C/ Amiel, s/n - 11012, Cádiz (Cádiz)                                     |
 | Número de caso                               | 02                                                                       |
 | Tipo de investigación                        | Adquisición de memoria no volátil                                        |
-| Fecha de Adquisición                         | 26/03/2025                                                               |
+| Fecha de Adquisición                         | /03/2025                                                               |
 | Lugar de Adquisición                         | C/ Amiel, s/n - 11012, Cádiz (Cádiz)                                     |
 | **2. DESCRIPCIÓN EVIDENCIAS EN ORIGINAL**    |                                                                          |
 | Tipo de Dispositivo                          | Memoria RAM                                                              |
