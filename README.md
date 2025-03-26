@@ -1,5 +1,7 @@
 # ProyectoAF_5
 
+![alt text](portada.jpg)
+
 Análisis Forense realizado por Israel Valderrama
 
 - [Enlace Investigación](./Investigación.md)
