@@ -24,8 +24,6 @@ ping.php
 
 ![alt text](img_investigacion/image-1.png)
 
-Actividad realizada con el ping.php
-
 ## Determinar la IP, el cliente y el sistema operativo utilizado por el atacante durante el ataque
 
 Hemos revisado los logs y en los logs de `apache` hemos visto que hay un archivo que se llama `access.log` en la que nos da la información de la ip del atacante,  el cliente que utiliza y el sistema operativo
@@ -39,6 +37,8 @@ Hemos revisado los logs y en los logs de `apache` hemos visto que hay un archivo
 ## Descubrir qué datos fueron exfiltrados del servidor comprometido
 
 Se genera un archivo `passwd.txt` en donde se guarda el contenido de `/etc/passwd`, este archivo se guarda en `/var/www/`
+
+![alt text](img_investigacion/stringRAM.png)
 
 passwd.txt
 
